@@ -1,5 +1,3 @@
-## Introduction
-
 In 1833, Thomas Moat finally had enough cash to pay someone to print his hobby shorthand project. He believed he had invented the future of shorthand. He was dead wrong.
 
 But his manual is so dang full of itself, and his system looks so wild on the page, that it’s entertaining to read through. Like watching a train crash.
