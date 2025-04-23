@@ -7,6 +7,8 @@ _On the analysis of the circle, and a comparative view of the above preceding sy
 
 Check out the first two plates, The Losers and Moat’s Awesomeness. No twirls. No angles. Just them sweet, sweet curves. (Or sections of a circle. I put some sections in this section for you.)
 
+![Plates 1 and 2 list a bunch of different shorthand alphabets.](assets/Plates 1 and 2.jpg)
+
 ## Part 2: On the characters for the consonants
 
 pp 15-16: Behold the many-lined circle! Therein lies the whole of our alphabet. Mostly.
