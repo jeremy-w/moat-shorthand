@@ -20,6 +20,8 @@ AND CONSEQUENTLY
 _than by_  
 **ANY OTHER SYSTEM EXTANT.**
 
+### Contents: The Short-Hand Standard &c.
+
 * [Dedication](dedication)
 * [Preface](preface)
 * [Intro](intro)
