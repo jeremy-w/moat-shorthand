@@ -25,3 +25,4 @@ _than by_
 * [Dedication](dedication)
 * [Preface](preface)
 * [Intro](intro)
+* [Section 1: On the analysis of the Circle](sec01-circle)
