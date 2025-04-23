@@ -1,5 +1,5 @@
 ## Section 1
-_On the analysis of the circle, and a comparative view of the above processing systems, with this new system._
+_On the analysis of the circle, and a comparative view of the above preceding systems, with this new system._
 
 ### Part 1
 
